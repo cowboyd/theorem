@@ -1,0 +1,28 @@
+{
+  "name": "theorem",
+  "version": "0.0.1",
+  "description": "Observable derived state",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboyd/theorem.git"
+  },
+  "keywords": [
+    "store",
+    "immutable",
+    "fact",
+    "observable"
+  ],
+  "author": "Charles Lowell <cowboyd@frontside.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cowboyd/theorem/issues"
+  },
+  "homepage": "https://github.com/cowboyd/theorem#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
